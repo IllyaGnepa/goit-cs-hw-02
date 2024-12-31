@@ -1,0 +1,1 @@
+Add your DB credentails to files conf/db.py and docker-compose.yaml before running containers.
